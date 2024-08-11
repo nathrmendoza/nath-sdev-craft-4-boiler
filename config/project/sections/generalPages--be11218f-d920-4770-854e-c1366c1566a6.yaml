@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: generalPages
+name: 'General Pages'
+propagationMethod: all
+siteSettings:
+  378b0571-ea43-402e-a2fd-bbc409efb64f: # Craft Practice
+    enabledByDefault: true
+    hasUrls: true
+    template: pages/generalPages.twig
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: null
+  uid: 3dede275-963c-43d6-9611-81fafd453f73
+type: structure

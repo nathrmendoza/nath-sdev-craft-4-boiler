@@ -1,0 +1,19 @@
+columnSuffix: ycuvybxe
+contentColumnType: text
+fieldGroup: 99a7252c-81ab-4778-b4ec-2f9bbc2381aa # Common
+handle: fullText
+instructions: null
+name: 'Full Text'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

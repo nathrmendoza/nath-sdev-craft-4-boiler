@@ -1,0 +1,46 @@
+field: 251f925a-95d1-42e0-b967-a360c80d963e # Components
+fieldLayouts:
+  c6c3dc97-b48e-4497-a724-96380e6d6d96:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: c127a401-697b-4001-9703-6c3a7d4d50db # Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4b79fcef-2904-491d-af7c-a565dc08cce7
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: bb94b995-3543-4cfa-8b08-eb27e8f20aa0
+        userCondition: null
+fields:
+  c127a401-697b-4001-9703-6c3a7d4d50db: # Heading
+    columnSuffix: qnetthbg
+    contentColumnType: text
+    fieldGroup: null
+    handle: heading
+    instructions: null
+    name: Heading
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: hero
+name: Hero
+sortOrder: 1

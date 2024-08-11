@@ -1,0 +1,43 @@
+dateModified: 1723412258
+email:
+  fromEmail: sample@email.com
+  fromName: 'Craft Practice'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  uploads:
+    hasUrls: true
+    name: Uploads
+    settings:
+      path: assets/media
+    type: craft\fs\Local
+    url: '@webroot/assets/media'
+meta:
+  __names__:
+    0d9157b8-a8e5-4282-891a-bae441cd7c72: Text # Text
+    3ca78487-12ad-49f0-92bf-f2873d37758e: 'Craft Practice' # Craft Practice
+    5ca2fdcd-a4ca-418d-8a25-a4f6a0a27416: Default # Default
+    37c5acdc-b7af-4f15-ba27-e987b659b745: 'Image Carousel' # Image Carousel
+    99a7252c-81ab-4778-b4ec-2f9bbc2381aa: Common # Common
+    251f925a-95d1-42e0-b967-a360c80d963e: Components # Components
+    378b0571-ea43-402e-a2fd-bbc409efb64f: 'Craft Practice' # Craft Practice
+    a5366d6b-34e0-48a0-bf35-d4f2d7b26522: Images # Images
+    b70797f5-4d17-4cc0-bd38-5e6b988be30a: Hero # Hero
+    bcdc3596-7cb4-4995-924b-59807feb5131: Default # Default
+    be11218f-d920-4770-854e-c1366c1566a6: 'General Pages' # General Pages
+    c127a401-697b-4001-9703-6c3a7d4d50db: Heading # Heading
+    c5542d7d-f0e2-4f91-996e-f7480b4c4472: 'Full Text' # Full Text
+    d8b4fdc3-e87f-4bd9-bb3c-1e0d19ab54d1: 'Image Slides' # Image Slides
+    e70b90c6-77b3-4856-ba3a-a0f493151b92: 'Image Slides' # Image Slides
+    f7ae64d3-2ec5-4d96-96d0-877f7a9c8c87: Image # Image
+system:
+  edition: solo
+  live: true
+  name: 'Craft Practice'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

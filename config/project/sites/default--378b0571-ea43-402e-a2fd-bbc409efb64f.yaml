@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'Craft Practice'
+primary: true
+siteGroup: 3ca78487-12ad-49f0-92bf-f2873d37758e # Craft Practice
+sortOrder: 1

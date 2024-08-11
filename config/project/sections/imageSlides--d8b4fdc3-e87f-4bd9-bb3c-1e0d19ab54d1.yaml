@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: imageSlides
+name: 'Image Slides'
+propagationMethod: all
+siteSettings:
+  378b0571-ea43-402e-a2fd-bbc409efb64f: # Craft Practice
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+type: channel

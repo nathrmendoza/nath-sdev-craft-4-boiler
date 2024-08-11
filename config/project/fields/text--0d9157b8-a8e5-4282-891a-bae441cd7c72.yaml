@@ -1,0 +1,19 @@
+columnSuffix: gelggtgx
+contentColumnType: text
+fieldGroup: 99a7252c-81ab-4778-b4ec-2f9bbc2381aa # Common
+handle: text
+instructions: null
+name: Text
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: 500
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
